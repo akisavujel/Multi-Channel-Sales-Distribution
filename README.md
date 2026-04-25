@@ -1,3 +1,4 @@
+
 # 📊 Multi-Channel Sales Distribution Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
@@ -31,7 +32,11 @@ Python | Pandas | Jupyter Notebook | Power BI
 
 ## 🎥 Live Dashboard
 
-[![Watch Video](https://img.youtube.com/vi/dummy/0.jpg)](https://res.cloudinary.com/dvz4rrtdz/video/upload/v1777140797/VIDEO-2026-04-25-22-44-04_et2ptz.mp4)
+
+
+https://github.com/user-attachments/assets/2c7aab37-d527-4455-a52c-10665466bc14
+
+
 
 ## 📌 What I Learned
 - Real-world data cleaning techniques  
@@ -39,12 +44,6 @@ Python | Pandas | Jupyter Notebook | Power BI
 - Feature engineering for business insights  
 - Building executive-level dashboards  
 - Translating data into business decisions  
-
-## 🚀 How to Run
-git clone https://github.com/akisavujel/Multi-Channel-Sales-Distribution.git  
-cd Multi-Channel-Sales-Distribution  
-pip install pandas numpy  
-jupyter notebook  
 
 ## 👤 Author
 
